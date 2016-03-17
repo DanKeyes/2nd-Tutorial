@@ -7,3 +7,8 @@ Then we click the pencil, and do the editting
 <br>
 Then we commit
 <br> Let's stop here
+<br)
+<br>
+Must make SURE that we're always looking at the right branch
+<br>
+
