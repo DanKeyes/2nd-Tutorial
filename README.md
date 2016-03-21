@@ -14,5 +14,4 @@ Here we are again
 <br> Just like the last time
 
 <br>
-<br>
 Wow how time forgets...
